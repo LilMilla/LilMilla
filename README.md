@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Luke Miller
 
-<!--
-**LilMilla/LilMilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Major at The Ohio State University. I am currently building my portfolio and actively seeking Software Engineering internships. 
 
-Here are some ideas to get you started:
+**What I'm Working On**
+-  Deepening my expertise in C programming and low-level system mechanics.
+-  Building applications that require strict memory management, pointer arithmetic, and optimized data structures.
+-  Exploring compilation processes, linker operations, and memory segment allocation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+- **Languages:** C, Java, Python
+- **Tools & Environments:** Git, Linux Shell, Visual Studio Code
+
+**Let's Connect**
+- 📫 Reach me at: millerluke112@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/luke-miller-194203442/
